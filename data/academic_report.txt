@@ -1,0 +1,31 @@
+==========================================
+          STUDENT ACADEMIC REPORT
+==========================================
+
+---------- STUDENT DETAILS ----------
+Student ID : 5604
+Name       : Kanak Gupta
+Email      : kanakgupta@gmail.com
+Phone      : 2345678912
+Course     : btech CSE
+
+---------- MARKS DETAILS ----------
+Subject 1  : 85.0
+Subject 2  : 90.0
+Subject 3  : 78.0
+Subject 4  : 88.0
+Subject 5  : 92.0
+Total      : 433.0
+Percentage : 86.6%
+Grade      : A
+Result     : PASS
+
+---------- ATTENDANCE DETAILS ----------
+Total Classes    : 40
+Attended Classes : 34
+Attendance       : 85.00%
+Status           : ELIGIBLE
+
+==========================================
+             END OF REPORT
+==========================================
