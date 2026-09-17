@@ -1,0 +1,21 @@
+----------------------------------------
+Student ID : 5604
+Name       : Kanak Gupta
+Email      : kanakgupta@gmail.com
+Phone      : 1234567891
+Course     : btech CSE
+----------------------------------------
+----------------------------------------
+Student ID : -5
+Name       : Kanak Gupta
+Email      : kanakgupta@gmail.com
+Phone      : 1234567891
+Course     : btech CSE
+----------------------------------------
+----------------------------------------
+Student ID : 5604
+Name       : Kanak Gupta
+Email      : kanakgupta@gmail.com
+Phone      : 1234567891
+Course     : btech CSE
+----------------------------------------
